@@ -1,0 +1,65 @@
+1. 
+Sammanfattning av AI-ACt ?
+Svar:
+Det här dokumentet är ett förslag till en förordning från Europaparlamentet och rådet om fastställande av harmoniserade regler för artificiell intelligens (artificial intelligence act) och om ändring av vissa unionsrättsakter.
+
+Förordningens syfte är att förbättra den inre marknadens funktion genom att fastställa en enhetlig rättslig ram, särskilt för utveckling, marknadsföring och användning av artificiell intelligens i enlighet med unionens värden. Denna förordning syftar till ett antal övergripande allmänintressen, såsom en hög nivå av skydd för hälsa, säkerhet och grundläggande rättigheter, och den säkerställer den fria rörligheten för AI-baserade varor och tjänster över gränserna, vilket förhindrar medlemsstaterna från att införa restriktioner för utveckling, marknadsföring och användning av AI-system, såvida detta inte uttryckligen är tillåtet enligt denna förordning.
+
+Förordningen syftar också till att främja användningen av människocentrerad och tillförlitlig artificiell intelligens, samtidigt som den säkerställer en hög nivå av skydd för hälsa, säkerhet och grundläggande rättigheter. Den fastställer också en enhetlig rättslig ram för utveckling, lansering på marknaden, idrifttagning och användning av artificiell intelligens i enlighet med unionens värden och säkerställer den fria rörligheten för AI-baserade varor och tjänster över gränserna.
+
+Förordningen gäller för vissa AI-system, t.ex. sådana som används i kritiska sektorer eller som medför en hög risk för grundläggande rättigheter. Dessa AI-system måste uppfylla ett antal krav, t.ex. att de ska vara transparenta, ansvariga och rättvisa. Förordningen förbjuder också vissa användningsområden för AI-system, t.ex. sådana som använder biometrisk identifiering på distans i realtid på offentliga platser för brottsbekämpning.
+
+Sammantaget är AIAct ett omfattande regelverk för artificiell intelligens inom Europeiska unionen. Den syftar till att balansera riskerna och fördelarna med AI och att säkerställa att AI används på ett säkert, etiskt och tillförlitligt sätt.
+
+varför den behövs och ge exempel på annan liknande teknik som föranlett behovet av Governance/Styrning ?
+Svar:
+Varför behövs AI ACT?
+
+AI har potential att ge stora samhälleliga och ekonomiska fördelar, men den medför också risker. AI ACT syftar till att:
+
+Skydda grundläggande rättigheter och säkerhet: AI-system får inte diskriminera eller kränka människors rättigheter, och de måste vara säkra och tillförlitliga.
+Främja innovation och tillväxt: AI ACT skapar en tydlig och förutsägbar rättslig ram för företag som utvecklar och använder AI-system.
+Skapa en gemensam europeisk marknad för AI: AI-system ska kunna cirkulera fritt inom EU utan hinder.
+Exempel på annan liknande teknik som föranlett behovet av Governance/Styrning:
+
+Genetiskt modifierade organismer (GMO): GMO har potential att ge stora fördelar för jordbruket, men de medför också risker för miljön och människors hälsa. Därför har EU infört en strikt reglering av GMO.
+Kemikalier: Kemikalier används i en mängd olika produkter, men de kan vara giftiga eller skadliga för miljön. Därför har EU infört en omfattande lagstiftning för att reglera kemikalier.
+Autonoma vapen: Autonoma vapen kan välja och attackera mål utan mänsklig inblandning. Detta väcker allvarliga etiska och juridiska frågor, och därför har ett antal länder krävt ett internationellt förbud mot autonoma vapen.
+
+
+2.
+AI-baserad lösning för effektivare underhåll av Stockholms vägnät
+Problem: Stockholms vägnät kräver kontinuerligt underhåll, men nuvarande processer är ineffektiva. Det tar lång tid från rapportering till åtgärd, ofta på grund av bristande information och resurser.
+
+Lösning: En AI-baserad plattform kan:
+
+Automatisera identifiering av potthål och andra skador: Använda bilder och data från gatukameror, sensorer och invånarrapporter för att automatiskt identifiera och lokalisera problem.
+Prioritera åtgärder: Analysera data för att identifiera de mest akuta problemen och optimera åtgärdsordningen.
+Förutse behov: Använda AI-modeller för att prognostisera var och när problem kan uppstå, vilket möjliggör förebyggande underhåll.
+Optimera resursallokering: Matcha tillgängliga resurser med behoven på ett effektivt sätt.
+AI Act:
+
+Förbud mot diskriminering: AI-systemet får inte diskriminera vissa områden eller befolkningsgrupper.
+Transparens: Invånare måste ha rätt att få information om hur AI-systemet används och hur det påverkar dem.
+Mänsklig kontroll: Viktiga beslut om åtgärder bör inte fattas automatiskt av AI-systemet.
+Hinder och risker:
+
+Dataintegritet: Säkerställa korrekt och tillförlitlig datainsamling och -hantering.
+Algoritmförskjutning: Mitigera risken för att AI-systemet fattar partiska eller orättvisa beslut.
+Cybersecurity: Skydda AI-systemet mot cyberattacker och dataintrång.
+Etiska frågor: Ansvarsutkrävande och transparens i AI-systemets beslutsfattande.
+Gråzoner:
+
+Ansvarsfördelning: Vem ansvarar för AI-systemets beslut och eventuella fel?
+Användaracceptans: Hur kan man säkerställa att invånare accepterar och litar på AI-systemet?
+Hantering av hinder och risker:
+
+Noggrann datavalidering: Säkerställ att data som används för att träna AI-systemet är korrekt och representativ.
+Algoritmsk revision: Regelbundet granska och testa AI-systemet för att identifiera och åtgärda eventuella fördomar.
+Robust cybersäkerhet: Implementera starka cybersäkerhetsåtgärder för att skydda AI-systemet.
+Etisk ram: Utveckla en tydlig etisk ram för användning av AI-systemet.
+
+
+
+
+
